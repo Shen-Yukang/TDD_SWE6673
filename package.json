@@ -1,0 +1,12 @@
+{
+  "name": "sprint1-tdd-matching-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sprint 1 TDD test suite for a behavior-aware matching engine",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
